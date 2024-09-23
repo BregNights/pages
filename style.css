@@ -168,6 +168,10 @@ main abbr {
     text-decoration: underline dotted;
 }
 
+a {
+    white-space: pre;
+}
+
 .img-pequena {
     display: block;
     max-width: 350px;
